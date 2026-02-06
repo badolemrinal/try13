@@ -3,11 +3,11 @@ const messages = [
     "Really sure item??",
     "Are you positive meri jaan?",
     "Pratham please...",
-    "Just think about it gunda babiee!",
-    "If you say no, I will be really sad my babiee 😭...",
+    "Just think about it gundaa babiee!",
+    "If you say no, I will be really sad my pookie babiee 😭...",
     "I will be very sad 💔...",
-    "I will be very very very sad 💔...",
-    "Ok fine, I will stop asking pratham...",
+    "I will be very very very sad na mere daav 💔...",
+    "Ok fine, I will stop asking Pratham...",
     "Just kidding, say yes please my babieeeee pleaseeeeee! ❤️"
 ];
 
